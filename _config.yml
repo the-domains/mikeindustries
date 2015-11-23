@@ -1,0 +1,28 @@
+name: MikeIndustries
+favicon: null
+layout_spectrum: 0.45235973014496267
+typography_spectrum: 0.16509100259281695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6516957350540906
+  lightness: 0.5551279918290675
+  saturation: 0.2935115438885987
+  rhythmicContrast: 0.10573882074095309
+purpose: []
